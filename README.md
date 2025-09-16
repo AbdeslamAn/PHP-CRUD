@@ -1,4 +1,4 @@
-# CRUD
+# PHP = CRUD
 
 <h1>curd > admin</h1>
 

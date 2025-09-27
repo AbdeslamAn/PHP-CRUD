@@ -2,8 +2,17 @@
 
 <h1>curd > admin</h1>
 
+<h4>Funktionen für das Admin-Dashboard (CRUD-Operationen) :</h4>
+<ul>
+  <li>Alle Benutzerinformationen anzeigen/auflisten</li>
+  <li>Einen neuen Benutzer erstellen	</li>
+  <li>Benutzerinformationen aktualisieren/bearbeiten</li>
+  <li>Benutzer löschen</li>
+  <li>Inklusive robuster Fehlerbehandlung</li>
+  <li>Responsives Design der Seiten</li>
+</ul>
 
-<h4>These are files for the admin dashboard: : </h4>
+<h4>These are files for the admin dashboard:  </h4>
 <ul>
   <li>Display all user information</li>
   <li>Create a new user</li>
